@@ -17,6 +17,8 @@
 
 <br/>
 
+<img src="https://github.com/WestSilver99/Data_Structure/blob/main/img/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202023-03-14%20180817.png?raw=true">
+
 ### 단순 구조
 
 : 자료값을 사용하기 위한 기본 형태로서 프로그래밍 언어에서 제공하는 정수, 실수, 문자, 문자열 등의 데이터 형에 해당
@@ -55,9 +57,11 @@
   - 예시 = 가계도
   - 가계도의 자료 : 구성원
   - 자료를 연결하는 선: 부모 - 자식 관계 표현
+    <img src="https://github.com/WestSilver99/Data_Structure/blob/main/img/tree.png?raw=true">
 - 그래프
   - 연결되어 있는 원소 사이의 다:다 관계를 표현하는 자료구조
   - 객체를 나타내는 정점(Vertex)과 객체를 연결하는 간선(Edge)의 집합 G = (V, E)
+    <img src="https://github.com/WestSilver99/Data_Structure/blob/main/img/graph.png?raw=true">
 
 <br/>
 
