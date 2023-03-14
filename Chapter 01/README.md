@@ -91,6 +91,8 @@
 
 - 2진수 코드의 단위
 
+<img src="https://github.com/WestSilver99/Data_Structure/blob/main/img/2%EC%A7%84%EC%88%98%20%EC%BD%94%EB%93%9C%EC%9D%98%20%EB%8B%A8%EC%9C%84.png?raw=true">
+
 <br/>
 
 ### 수치 자료의 표현
