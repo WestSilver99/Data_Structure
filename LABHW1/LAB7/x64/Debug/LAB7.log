@@ -1,0 +1,14 @@
+﻿  LAB7.c
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(9,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(9,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(10,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(10,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(14,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(14,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(15,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(15,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(20,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(20,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int **' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(21,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\LAB7\LAB7.c(21,9): warning C4313: 'printf': 서식 문자열의 '%u'이(가) int *' 형식의 인수 1과(와) 충돌합니다.
+  LAB7.vcxproj -> C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW1\x64\Debug\LAB7.exe
