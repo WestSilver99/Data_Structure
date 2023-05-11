@@ -39,3 +39,52 @@
     - 이동횟수 = n-k+1 = 마지막 원소의 인덱스 - 삽입할 자리의 인덱스 +1
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxNjExMTRfMjA5/MDAxNDc5MDg1NjIzOTAz.m1yeu0MAI2IvJHovyWYNgPo28tlmr3nbZeh_q6CgraMg.VteltZpmqFVf61GdL1YjFCSg50Pu3nPQkUX_WqzF-3Yg.PNG.shruddnr1/31.PNG?type=w800">
+
+<br/>
+
+### 선형 리스트에서 원소 삭제
+
+- 선형리스트 중간에서 원소가 삭제되면, 그 이후의 원소들은 한 자리씩 자리를 앞으로 이동하여 물리적 순서를 논리적 순서와 일치시킴
+
+<br/>
+
+### 원소 삭제 방법
+
+- 원소 삭제하기
+
+- 삭제한 빈 자리 채우기
+
+  - 삭제한 자리 이후의 원소들을 한 자리씩 앞으로 자리 이동
+
+- 삭제 후, 빈 자리를 채우기 위한 자리이동 횟수
+  - (n+1)개의 원소로 이루어진 선형 리스트에서 k번 자리의 원소를 삭제한 경우 : (k+1)번 원소부터 마지막 n번 원소까지 (n-(k+1)+1)개의 원소를 이동 - 이동횟수 = n-(k+1)+1 = n+k = 마지막 원소 인덱스-삭제한 자리 인덱스
+
+ <img src="https://mblogthumb-phinf.pstatic.net/MjAxNjExMTRfMTE3/MDAxNDc5MDg1NzYxMzU5.WEtM3_UazZHLmNRlmUhN1Y_05PrHM90bKcNNMxPzj7wg.1_nhNthjMkOmGb2K8Aj2MnY1CdV_VC9reZGvHRfO2Z8g.PNG.shruddnr1/32.PNG?type=w800">
+
+ <br/>
+
+## 선형 리스트의 구현
+
+<br>
+
+### 순차 구조의 배열을 사용
+
+- 배열 : <인덱스, 원소>의 순서의 집합
+- 배열의 인덱스 : 배열 원소의 순서 표현
+
+<br/>
+
+### 2차원 배열의 물리적 저장 방법
+
+- 2차원의 논리적 순서를 1차원의 물리적 순서로 변환하는 방법 사용
+- 행 우선 순서 방법
+
+  - 2차원 배열의 첫 번째 인덱스인 행 번호를 기준으로 사용하는 바업ㅂ
+  - 원소의 위치 계산 방법:
+    <br/>
+    행의 개수가 n이고 열의 개수가 n_j 인 2차원 배열 A[n_i][n_j]의 시작주소가 a이고 원소의 길이가 l일 때, i행 j열 원소 즉, A[i][j]의 위치는? <br/>
+    a + (i * n_j + j)*l
+
+- 열 우선 순서 방법
+
+  - a + (j * n_i + i)*l

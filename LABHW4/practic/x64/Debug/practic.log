@@ -1,0 +1,6 @@
+﻿  p1.c
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\practic\p1.c(14,20): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\practic\p1.c(18,21): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\practic\p1.c(26,20): warning C4133: '=': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\practic\p1.c(22,8): warning C4133: '초기화 중': 'Node *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+  practic.vcxproj -> C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\x64\Debug\practice.exe

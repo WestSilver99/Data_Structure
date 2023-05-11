@@ -1,0 +1,16 @@
+﻿  LAB1.c
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(15,21): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(15,49): warning C4312: '형식 캐스트': 'int'에서 더 큰 'linkedList_h *'(으)로의 변환입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(22,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(23,2): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(24,25): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(30,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(38,3): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(42,22): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(49,47): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(57,45): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(58,22): warning C4133: '=': 'listNode *'과(와) 'ListNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(65,26): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(66,3): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\LAB1\LAB1.c(76,14): warning C4133: '=': 'ListNode *'과(와) 'listNode *' 사이의 형식이 호환되지 않습니다.
+  LAB1.vcxproj -> C:\Users\seo60\OneDrive\바탕 화면\Data_Structure\LABHW4\x64\Debug\LAB1.exe
